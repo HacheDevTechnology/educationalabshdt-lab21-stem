@@ -1,2 +1,5 @@
-# educationalabshdt-lab21-stem
-EducationalLabsHDT — Laboratorio 21 Días: hábitos de estudio + STEM en casa. Landing y shop assets.
+# EducationalLabsHDT — Laboratorio 21 Días STEM
+
+Landing + shop del pack digital ELHDT-LAB21-STEM-ES ($19).
+
+No repetir este SKU en lanzamientos futuros.
